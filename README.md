@@ -1,2 +1,1 @@
-# OpenSociety
-A pinboard website for all the non-academic activities in the college including:clubs,Student Project, and research work going on.
+A mini project that shows the use of JWT login and integrates it in a small MERN Project along with the usage of Cookies.
