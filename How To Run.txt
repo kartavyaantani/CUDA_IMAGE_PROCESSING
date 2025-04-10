@@ -21,6 +21,6 @@ Blur:
 
 
 
-Pixelize(Japanese):
+Pixelize:
 
 .\main.exe "E:\project\CUDA\Input_Images\Image4.jpg" pixelize 10
