@@ -9,7 +9,7 @@ A Cpu and a Gpu version of the following algorithms is implemented and commented
 - Convolution Blurring
 - Pixelize
 
-We benchmarked the [Gpu](https://github.com/kartavyaantani/img-processing-cuda-master/src/gpu/bench/benchs.ipynb) and [Cpu](https://github.com/kartavyaantani/img-processing-cuda-master/src/cpu/bench/benchs.ipynb) version.
+We benchmarked the [Gpu](https://github.com/kartavyaantani/CUDA_IMAGE_PROCESSING/blob/main/img-processing-cuda-master/src/gpu/bench/benchs.ipynb) and [Cpu](https://github.com/kartavyaantani/CUDA_IMAGE_PROCESSING/blob/main/img-processing-cuda-master/src/cpu/bench/benchs.ipynb) version.
 
 ## Setup:
 Make sure you have a CUDA capable GPU and install cudatoolkit for your OS.
