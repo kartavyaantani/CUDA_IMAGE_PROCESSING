@@ -1,6 +1,6 @@
 Open in start->cmd Terminal Not VSCODE!!!
 
-PS E:\project\CUDA\img-processing-cuda-master\src\gpu\build\Release> 
+cd E:\project\CUDA\img-processing-cuda-master\src\gpu\build\Release
 
 
 Edge Detect:
