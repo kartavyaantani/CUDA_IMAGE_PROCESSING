@@ -1,0 +1,26 @@
+Open in start->cmd Terminal Not VSCODE!!!
+
+PS E:\project\CUDA\img-processing-cuda-master\src\gpu\build\Release> 
+
+
+Edge Detect:
+
+main.exe "E:\project\CUDA\Input_Images\Image1.jpg" edge_detect
+
+
+De Noise:
+
+ .\main.exe "E:\project\CUDA\Input_Images\Image2.jpg" nlm 3 5 10
+
+
+
+Blur:
+
+1.  .\main.exe "E:\project\CUDA\Input_Images\Image3.jpg" conv 25
+2.  .\main.exe "E:\project\CUDA\Input_Images\Image3.jpg" shared_conv 7
+
+
+
+Pixelize(Japanese):
+
+.\main.exe "E:\project\CUDA\Input_Images\Image4.jpg" pixelize 10

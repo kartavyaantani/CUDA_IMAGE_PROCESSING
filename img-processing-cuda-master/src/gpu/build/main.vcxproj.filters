@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\project\CUDA\img-processing-cuda-master\src\gpu\main.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\project\CUDA\img-processing-cuda-master\src\gpu\kernel.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\project\CUDA\img-processing-cuda-master\src\gpu\kernelcall.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\project\CUDA\img-processing-cuda-master\src\gpu\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="E:\project\CUDA\img-processing-cuda-master\src\gpu\build\CMakeFiles\main.dir\$(Configuration)\main_generated_main.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\project\CUDA\img-processing-cuda-master\src\gpu\build\CMakeFiles\main.dir\$(Configuration)\main_generated_kernel.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\project\CUDA\img-processing-cuda-master\src\gpu\build\CMakeFiles\main.dir\$(Configuration)\main_generated_kernelcall.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{996E56B3-71CD-3DBD-B520-7A5CC3E47CAE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{47682D76-7BB2-3950-8B45-19BD5A21E5A7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
